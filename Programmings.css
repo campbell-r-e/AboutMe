@@ -2,9 +2,11 @@
     font-family:Matemasie;
     src: url(matemasie-latin-400-normal.woff2);
 }
-h1{
+h1{ 
+    color: blue;
     font-family: 'Matemasie';
-    color:' aqua';
+
+
     
     
 }
