@@ -3,7 +3,7 @@
     src: url(matemasie-latin-400-normal.woff2);
 }
 h1{ 
-    color: blue;
+    color: blue!important;
     font-family: 'Matemasie';
 
 
