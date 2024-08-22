@@ -1,8 +1,9 @@
+@font-face {
+    font-family:Matemasie;
+    src: url(matemasie-latin-400-normal.woff2);
+}
 p{
-    @font-face {
-        font-family:Matemasie;
-        src: url(campbell-r-e.github.io/matemasie-latin-400-normal.woff2);
-    }
+    font-family: 'Matemasie';
   
     
     
