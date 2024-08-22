@@ -10,3 +10,30 @@ h1{
     
     
 }
+p{
+    color: red;
+    font-family: 'Matemasie';
+
+}
+ol{
+    color: goldenrod;
+    font-family: 'Matemasie';
+}
+p2{
+    color: green;
+    font-family: 'Matemasie';
+}
+h2{
+    color: blueviolet;
+    font-family: 'Matemasie';
+
+}
+p3{
+    color: rebeccapurple;
+    font-family: 'Matemasie';
+
+}
+ul{
+    color:burlywood;
+    font-family: 'Matemasie';
+}
